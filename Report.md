@@ -48,7 +48,7 @@ We address these instabilities with a novel variant of Q-learning, which uses tw
 
 ### Algorithm
 
-![Deep Q-Learning algorithm from Udacity course](./images/DQN.png)
+![Deep Q-Learning algorithm from Udacity course](DQN.png)
 
 This algorithm screenshot is taken from the [Deep Reinforcement Learning Nanodegree course](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 
